@@ -1,0 +1,13 @@
+{
+  "name": "greeterbot",
+  "version": "1.0.0",
+  "description": "a bot",
+  "main": "logger.js",
+  "scripts": {
+    "start": "node logger.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "quick.db": "^7.0.0-b22"
+  }
+}
